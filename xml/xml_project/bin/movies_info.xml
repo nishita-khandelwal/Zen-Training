@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movies SYSTEM "movies.dtd" >
+<movies>
+  <movie>
+    <code>101</code>
+    <title>Znmd</title>
+    <release-date>
+    <day> 16</day>
+     <month>7</month>
+      <year>2019</year>    
+    </release-date>
+    <theater-name>PVR cinemas</theater-name>
+     <theater-name>City Pride</theater-name>
+    <city>Pune</city>
+    <city>Indore</city>
+    <city>Mumbai</city>
+    <city>Banglore</city>
+  </movie>
+  <movie>
+  <code>102</code>
+  <title>Yjhd</title>
+  <theater-name>Inox</theater-name>
+ </movie>
+</movies>

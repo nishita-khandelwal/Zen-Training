@@ -1,0 +1,70 @@
+package com.zensar.services.business;
+
+import java.util.List;
+
+import com.zensar.entities.Product;
+
+
+/*
+ * Author: Nishita Khandelwal
+ * Creation Date: 26th July 2019 11.32AM
+ * Modified Date: 26th July 2019 11.32AM
+ * Version: 1.0
+ * Copyright: Zensar Technologies. All rights reserved. 
+ * Description: Data access Object Interface.
+ * It encapsulates business logic of application component product.
+ * It interacts with DAO layer to get data from database.
+ * It also interact with Presentation layer to give data as per business reqirement.              4
+ * */
+
+public class ProductServiceImpl implements ProductService {
+
+	@Override
+	public void crate(Product product) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void edit(Product product) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void remove(Product product) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public Product findProductById(int ProductId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Product> findAllProduct() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int getProductCount() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public List<Product> findProductByBrand(String brand) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Product> findProductByPriceRange(float minPrice, float maxPrice) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

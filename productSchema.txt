@@ -1,0 +1,7 @@
+create table product{
+
+id number(4) primary key,
+name varchar(30) not null,
+brand varchar(30) not null,
+price double check(price>0)
+};

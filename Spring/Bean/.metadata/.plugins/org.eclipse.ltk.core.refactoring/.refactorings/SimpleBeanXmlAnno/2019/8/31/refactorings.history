@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;WEB-INF&apos;&#x0D;&#x0A;- Original project: &apos;SimpleBeanXmlAnno&apos;&#x0D;&#x0A;- Destination element: &apos;WEB-INF&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     spring-context.xsd&#x0D;&#x0A;     spring-beans.xsd" description="Copy files" element1="src/main/java/spring-context.xsd" element2="src/main/java/spring-beans.xsd" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1564622118790" target="/LoginSpringApp/WebContent/WEB-INF" units="0" version="1.0"/>
+</session>

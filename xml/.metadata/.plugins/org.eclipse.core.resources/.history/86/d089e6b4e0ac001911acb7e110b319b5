@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zen:movies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zen="http://www.zensar.com/movies" xsi:schemaLocation="http://www.zensar.com/movies movies.xsd ">
+  <zen:movie>
+    <zen:code>5090</zen:code>
+    <zen:title>nd</zen:title>
+    <zen:theater-name>PVR cinemas</zen:theater-name>
+  </zen:movie>
+</zen:movies>
+
+<zen:movie>
+    <zen:code>5090</zen:code>
+    <zen:title>YJHD</zen:title>
+    <zen:theater-name>Inox cinemas</zen:theater-name>
+  </zen:movie>
+</zen:movies>

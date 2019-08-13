@@ -1,0 +1,77 @@
+2019-07-23 16:47:07,811 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-07-23 16:52:03,931 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\NISHITA\mavenEclipse\PhoenixShoppe\pom.xml
+2019-07-23 16:52:05,964 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.phoenix.shop:PhoenixShoppe:0.0.1-SNAPSHOT @ D:\NISHITA\mavenEclipse\PhoenixShoppe\pom.xml.
+2019-07-23 16:52:07,751 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PhoenixShoppe/src/main/java
+2019-07-23 16:52:07,762 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PhoenixShoppe/src/test/java
+2019-07-23 16:52:09,807 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2019-07-23 16:52:11,518 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-23 16:52:11,518 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\NISHITA\mavenEclipse\PhoenixShoppe\src\main\resources
+2019-07-23 16:52:11,520 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-23 16:52:11,520 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\NISHITA\mavenEclipse\PhoenixShoppe\src\test\resources
+2019-07-23 16:53:26,486 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-23 16:53:26,487 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\NISHITA\mavenEclipse\PhoenixShoppe\src\main\resources
+2019-07-23 16:53:26,488 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-23 16:53:26,488 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\NISHITA\mavenEclipse\PhoenixShoppe\src\test\resources
+2019-07-23 17:05:23,300 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-07-23 17:05:51,936 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\NISHITA\mavenEclipse\PhoenixShoppe
+2019-07-23 17:05:51,937 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-07-23 17:05:52,112 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-23 17:05:52,112 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\NISHITA\mavenEclipse\PhoenixShoppe\src\main\resources
+2019-07-23 17:05:52,113 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-23 17:05:52,113 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\NISHITA\mavenEclipse\PhoenixShoppe\src\test\resources
+2019-07-23 17:06:58,416 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-23 17:06:58,417 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\NISHITA\mavenEclipse\PhoenixShoppe\src\main\resources
+2019-07-23 17:06:58,418 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-23 17:06:58,418 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\NISHITA\mavenEclipse\PhoenixShoppe\src\test\resources
+2019-07-23 17:34:26,987 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-07-23 17:34:57,521 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\NISHITA\mavenEclipse\PhoenixShoppe
+2019-07-23 17:34:57,521 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-07-23 17:35:00,697 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.phoenix.shop:PhoenixShoppe:0.0.1-SNAPSHOT @ D:\NISHITA\mavenEclipse\PhoenixShoppe\pom.xml.
+2019-07-23 17:35:03,503 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-23 17:35:03,504 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\NISHITA\mavenEclipse\PhoenixShoppe\src\main\resources
+2019-07-23 17:35:03,506 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-23 17:35:03,506 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\NISHITA\mavenEclipse\PhoenixShoppe\src\test\resources
+2019-07-23 17:35:07,269 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-23 17:35:07,269 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\NISHITA\mavenEclipse\PhoenixShoppe\src\main\resources
+2019-07-23 17:35:07,270 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-23 17:35:07,270 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\NISHITA\mavenEclipse\PhoenixShoppe\src\test\resources
+2019-07-23 17:45:51,323 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-23 17:45:51,324 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\NISHITA\mavenEclipse\PhoenixShoppe\src\main\resources
+2019-07-23 17:45:51,326 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-23 17:45:51,326 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\NISHITA\mavenEclipse\PhoenixShoppe\src\test\resources
+2019-07-23 17:49:13,291 [Worker-39] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/oxygen/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:453) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:255) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:232) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:303) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:168) [org.eclipse.recommenders.models.rcp_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.3.v20180115-1757.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/oxygen/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:48) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:364) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:76) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:590) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:258) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:529) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:430) ~[na:na]
+	... 8 common frames omitted
+2019-07-23 18:01:43,833 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-07-23 18:01:55,093 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.phoenix.shop:PhoenixShoppe:0.0.1-SNAPSHOT @ D:\NISHITA\mavenEclipse\PhoenixShoppe\pom.xml.
+2019-07-23 18:01:59,062 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-23 18:01:59,062 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\NISHITA\mavenEclipse\PhoenixShoppe\src\main\resources
+2019-07-23 18:01:59,065 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-23 18:01:59,065 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\NISHITA\mavenEclipse\PhoenixShoppe\src\test\resources
+2019-07-23 18:02:00,873 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.phoenix.shop:PhoenixShoppe:0.0.1-SNAPSHOT @ D:\NISHITA\mavenEclipse\PhoenixShoppe\pom.xml.
+2019-07-23 18:02:02,194 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-23 18:02:02,194 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\NISHITA\mavenEclipse\PhoenixShoppe\src\main\resources
+2019-07-23 18:02:02,196 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-23 18:02:02,196 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\NISHITA\mavenEclipse\PhoenixShoppe\src\test\resources
+2019-07-24 11:59:51,197 [Worker-123] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.phoenix.shop:PhoenixShoppe:0.0.1-SNAPSHOT @ D:\NISHITA\mavenEclipse\PhoenixShoppe\pom.xml.
+2019-07-24 11:59:51,900 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-24 11:59:51,900 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\NISHITA\mavenEclipse\PhoenixShoppe\src\main\resources
+2019-07-24 11:59:51,900 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-24 11:59:51,900 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\NISHITA\mavenEclipse\PhoenixShoppe\src\test\resources

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Trivago Home</title>
+<style type="text/css">
+body{
+     background-color:cyan;
+     
+
+
+}
+
+
+
+</style>
+</head>
+<body>
+<h1>How to say hello</h2>
+<h2><a href="http://localhost:8010/HelloWebService/zenrest/zenhello">Plain</h2>
+<h3><a href="http://localhost:8010/HelloWebService/zenrest/zenhello">Html</h3>
+<h4><a href="http://localhost:8010/HelloWebService/zenrest/zenhello">Xml</h4>
+</html>

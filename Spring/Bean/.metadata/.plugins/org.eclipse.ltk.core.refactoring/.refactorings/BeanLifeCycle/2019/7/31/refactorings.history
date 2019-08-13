@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;spring-beans.xsd&apos; to &apos;SimpleBeanGradle/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;BeanLifeCycle&apos;&#x0D;&#x0A;- Destination element: &apos;SimpleBeanGradle/src/main/resources&apos;&#x0D;&#x0A;- Original element: &apos;spring-beans.xsd&apos;" description="Copy file" destination="=SimpleBeanGradle/src\/main\/resources" element1="src/main/java/spring-beans.xsd" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1564511621041" units="0" version="1.0"/>
+</session>

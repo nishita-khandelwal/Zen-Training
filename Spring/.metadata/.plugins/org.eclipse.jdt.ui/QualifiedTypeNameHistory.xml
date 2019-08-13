@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.zensar.spring.Greeting"/>
+<fullyQualifiedTypeName name="com.zensar.spring.performance.Performer"/>
+<fullyQualifiedTypeName name="com.zensar.spring.poems.Poem"/>
+<fullyQualifiedTypeName name="com.zensar.spring.performers.Instrumentalist"/>
+<fullyQualifiedTypeName name="com.zensar.spring.instruments.Instrument"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="com.zensar.spring.performers.Performer"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.BeanNameAware"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.BeanFactoryAware"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContextAware"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.InitializingBean"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.DisposableBean"/>
+<fullyQualifiedTypeName name="org.springframework.context.ConfigurableApplicationContext"/>
+</qualifiedTypeNameHistroy>
